@@ -3,7 +3,7 @@
 Information Systems Student · Web-Based Systems Developer · System & Automation Engineer  
 
 I build **structured, efficient, and secure information systems**  
-with a strong focus on **system architecture, backend logic, and real-world implementation**.
+with strong focus on **system architecture, backend development, and real-world implementation**.
 
 📍 Indonesia
 
@@ -17,17 +17,20 @@ with a strong focus on **system architecture, backend logic, and real-world impl
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-111111?logo=vercel&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@yourusername-E4405F?logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Information Systems student with strong interest in **real-world system development**
-- ⚙️ Focused on **backend systems, authentication, and access control**
-- 🧩 Experienced in building **academic, service, and management information systems**
-- 🔐 Interested in **system security, logging, and automation**
-- 🚀 Passionate about creating systems that are **scalable, maintainable, and practical**
+- 🎓 Information Systems student focused on **designing and implementing real-world systems**
+- ⚙️ Strong interest in **backend systems, automation, and system integration**
+- 🔐 Experienced with **authentication, access control, and system logging**
+- 🧩 Comfortable working with **databases, APIs, and service-oriented architectures**
+- 🚀 Passionate about building systems that are **scalable, maintainable, and efficient**
 
 ---
 
@@ -43,34 +46,67 @@ with a strong focus on **system architecture, backend logic, and real-world impl
 
 ## 🧰 Tech Stack
 
+### 💻 Programming Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
   <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+</div>
+
+### 🧩 Frameworks & Libraries
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
   <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+</div>
+
+### 🗄️ Databases
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
   <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/>
+</div>
+
+### ⚙️ DevOps & Infrastructure
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+</div>
+
+### 🛠️ Tools & Platforms
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
 </div>
 
 ---
 
 ## 🎯 Current Focus
 
-- Web-Based Information Systems Development
-- System Authentication & Authorization
-- Automation & Integration
-- Preparing for professional-level system projects
+- Web-Based Information Systems Development  
+- System Authentication & Authorization  
+- Automation & System Integration  
+- Backend Architecture & Security  
 
 ---
 
