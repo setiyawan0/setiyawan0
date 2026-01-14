@@ -98,3 +98,16 @@ Backend-Oriented · System Architecture & Integration Enthusiast
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
 </div>
+
+---
+
+## 🎯 Current Focus
+
+- Web-Based Information Systems Development  
+- System Authentication & Authorization  
+- Automation & System Integration  
+- Backend Architecture & Security  
+
+---
+
+> _“Build systems that solve real problems, not just pass assignments.”_
